@@ -1,12 +1,12 @@
-  # Hello World
+  #Hello World
 
-  This is my home page! My name is Rozlyn Lomeli and I am a student at Cal State Fullerton (https://fullerton.edu) and my major is computer science.
+  This is my home page! My name is Rozlyn Lomeli and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
-  ## Computer Science Projects
+  ##Computer Science Projects
 
   My GitHub page is (https://github.com/rozlynnn)
 
-  ### CPSC 120
+  ###CPSC 120
 
   Lab 1
 
