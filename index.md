@@ -1,12 +1,12 @@
-#Hello World
+# Hello World
 
   This is my home page! My name is Rozlyn Lomeli and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 
-##Computer Science Projects
+## Computer Science Projects
 
   My GitHub page is (https://github.com/rozlynnn)
 
-###CPSC 120
+### CPSC 120
   Lab 1
 
   Lab 1 is a favorite of mine mainly because it taught me how to start coding in C++ language using Linux. I learned how to clone git repositories and use terminal commands. While also using the PAT we had made I learned how to input it. Editing code in VS code was something new to me and I enjoyed learning and asking questions. Editing in AUTHORS.md was really interesting and I liked how it contains your name, username, and email. Learning all these aspects in Lab 1 really helped me in future labs that I did later on. 
